@@ -1,0 +1,9 @@
+html, body {
+    height: 100%;
+}
+
+.red-highlight {
+    color: red;
+    font-weight: bold;
+}
+
