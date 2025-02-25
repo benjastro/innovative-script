@@ -1,6 +1,5 @@
 function createHomeButton() {
     let homelink = `${window.location.origin}/innovative-script/`;
-    homelink = `${window.location.origin}`;
     let homeButton = document.createElement('button');
     homeButton.innerText = "Back to Home";
     homeButton.onclick = () => {
