@@ -1,2 +1,2 @@
-# awis-script
-Script for awis
+# Innovative Script
+Script for innovative
